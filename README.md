@@ -3,11 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarak&label=Profile%20views&color=0e75b6&style=flat" alt="tarak" /> </p>
 
-- 🔭 I’m currently working on **Node.js**
-
-- 🌱 I’m currently learning **node**
-
-- 🤝 I’m looking for help with **everything**
 
 - 💬 Ask me about **Javascript,Java,PHP**
 
