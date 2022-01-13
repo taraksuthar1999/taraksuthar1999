@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarak&label=Profile%20views&color=0e75b6&style=flat" alt="tarak" /> </p>
 
 
-- 💬 Ask me about **Javascript,Java,PHP**
+- 💬 Ask me about **Javascript, Servers, Node, Clusters**
 
 - 📫 How to reach me **tarak.suthar1999@gmail.com**
 
